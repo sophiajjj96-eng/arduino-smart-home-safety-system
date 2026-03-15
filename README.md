@@ -9,18 +9,19 @@ Prototype smart home safety system designed to detect fire and flood risks and a
 ```
 rad-smart-home-safety-device
 │
-├ README.md
-├ images
-│ ├ prototype.jpg
-│ ├ circuit-diagram.png
-│ └ cad-design.png
-│
 ├ code
 │ └ arduino_sensor_system.ino
 │
-└ docs
+├ images
+│ ├ cad-design.png
+│ ├ circuit-diagram.png
+│ ├ code-flow-chart.png
+│ ├ prototype.png
+│ └ schematic-diagram.png
+│
+├ Engineering_Notebook.pdf
 ├ RAD_Final_Report.pdf
-└ Engineering_Notebook.pdf
+└ README.md
 ```
 
 ---
