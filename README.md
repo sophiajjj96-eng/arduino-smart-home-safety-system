@@ -58,7 +58,7 @@ The system uses sensors connected to an **Arduino microcontroller** to monitor e
 
 ## Prototype
 
-![Prototype](images/prototype.jpg)
+![Prototype](images/prototype.png)
 
 ---
 
