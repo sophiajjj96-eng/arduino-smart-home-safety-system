@@ -70,7 +70,7 @@ The system uses sensors connected to an **Arduino microcontroller** to monitor e
 
 ## CAD Design
 
-![CAD Design](images/cad_design.png)
+![CAD Design](images/cad-design.png)
 
 ---
 
