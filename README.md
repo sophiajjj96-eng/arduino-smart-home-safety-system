@@ -98,3 +98,12 @@ Full project documentation is available in the **docs** folder.
 docs/RAD_Final_Report.pdf
 docs/Engineering_Notebook.pdf
 ```
+
+---
+
+# Author
+
+Sophia Choi  
+Business Technology Management  
+
+Data Analytics • SQL • Tableau • Business Operations Strategy
